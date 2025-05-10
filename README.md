@@ -26,8 +26,8 @@ It provides both basic arithmetic and advanced scientific operations in a user-f
 4. A calculator window will open — ready to use!
 
 ## Screenshot
-*(You can add a screenshot of your calculator here once it’s uploaded.)*
+![calculator screenshot](Screenshot1.py)
 
 ## Author
-**Your Name Here**  
+**M.Ranjani**  
 Project for learning Python GUI development.
